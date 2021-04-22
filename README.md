@@ -1,1 +1,1 @@
-# SSL_lerner_damian
+Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes
